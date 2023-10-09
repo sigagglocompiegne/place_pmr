@@ -24,7 +24,8 @@ L’ARC privilégie donc une organisation dans laquelle l’Interface Homme Mach
 
 ## Voir aussi
 
-Sans objet
+* [Schéma national des stationnements PMR en voirie (en cours)](https://github.com/etalab/schema.data.gouv.fr/issues/190)
+* [Schéma sur le stationnement en voirie (en cours)](https://github.com/macaron-ai/onstreet-parking-schema)
 
 ## Jeu de données consolidé
 
