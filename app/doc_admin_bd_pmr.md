@@ -15,10 +15,6 @@ Pour rappel des grands principes :
 * la conformité est déduite des informations réglementaires saisies
 * pour la localisation, aucun élément n'est requis, si la saisie de l'adresse est indiquée, la voie n'est pas nécessaire et inversement
 
-## Schéma fonctionnel
-
-(à faire)
-
 ## Modèle relationel simplifié
 
 ![spanc_mcd](mcd_simplifie.png)
