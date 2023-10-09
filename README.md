@@ -11,7 +11,7 @@ Ensemble des éléments constituant la mise en oeuvre de la base de données pou
   * [Création de la structure des données](bdd/pmr_10_squelette.sql)
   * [Création des vues applicatives](bdd/pmr_21_vues_xapps.sql)
   * [Création des privilèges](bdd/pmr_99_grant.sql)  
-- [Documentation d'administration de la base de données](app/doc_pmr_bd_pmr.md)
+- [Documentation d'administration de la base de données](app/doc_admin_bd_pmr.md)
 - Documentation des utilisateurs de l'application (authentification nécessaire)
 
 
