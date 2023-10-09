@@ -11,7 +11,7 @@ Cette application a été conçue pour le service "Voirie" de la ville de Compi�
 
 Pour rappel des grands principes :
 
-* le service "Voriie" peut insérer, mettre à jour et supprimer des places PMR
+* le service "Voirie" peut insérer, mettre à jour et supprimer des places PMR
 * la conformité est déduite des informations réglementaires saisies
 * pour la localisation, aucun élément n'est requis, si la saisie de l'adresse est indiquée, la voie n'est pas nécessaire et inversement
 
